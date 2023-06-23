@@ -1,4 +1,4 @@
--# Hello, World! 👋
+## Hello, World! 👋
 
 I'm a computer engineering graduate from RTMNU University Nagpur (2019-2023). 🎓 I'm passionate about utilizing my technical skills to solve real-world problems, especially in the field of data analysis and visualization. 💻
 
