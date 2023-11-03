@@ -6,8 +6,9 @@ I'm a computer engineering graduate from RTMNU University Nagpur (2019-2023). �
 *   Tableau 📊 
 *   SQL 🗃️
 *   Power BI 🔋
-*   Python 🐍               *
+*   Python 🐍
 *    HTML/CSS
+  
 I'm always looking for new opportunities to learn and grow in data analysis and visualization. Feel free to connect with me on LinkedIn or message me to discuss potential collaborations. 🤝
 
 <!---
